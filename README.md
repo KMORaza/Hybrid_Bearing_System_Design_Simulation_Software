@@ -24,5 +24,5 @@ This desktop app provides a comprehensive simulation environment for analyzing h
  
 | ![](https://github.com/KMORaza/Hybrid_Bearing_System_Design_Simulation_Software/blob/main/src/main/screenshots/001.png) | ![](https://github.com/KMORaza/Hybrid_Bearing_System_Design_Simulation_Software/blob/main/src/main/screenshots/002.png) |
 |-------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
-| ![](https://github.com/KMORaza/Hybrid_Bearing_System_Design_Simulation_Software/blob/main/src/main/screenshots/003.png) | ![](https://github.com/KMORaza/Hybrid_Bearing_System_Design_Simulation_Software/blob/main/src/main/screenshots/004.png) |
+| ![](https://github.com/KMORaza/Hybrid_Bearing_System_Design_Simulation_Software/blob/main/src/main/screenshots/003.png) |  |
 | ![](https://github.com/KMORaza/Hybrid_Bearing_System_Design_Simulation_Software/blob/main/src/main/screenshots/005.png) | ![](https://github.com/KMORaza/Hybrid_Bearing_System_Design_Simulation_Software/blob/main/src/main/screenshots/006.png) |
